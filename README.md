@@ -1,2 +1,3 @@
 # techie-tessie-tailwind-css-tutorial
-Created with CodeSandbox
+Intro tutorial to Tailwind, a CSS framework. (Spanish)
+Tutorial de introducción al framework Tailwind CSS.
